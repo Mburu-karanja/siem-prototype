@@ -1,0 +1,7 @@
+syslog
+pandas
+#sqlite3 = pre-installed
+datetime
+email.mime.text
+email.mime.multipart
+```
